@@ -1,8 +1,5 @@
 ﻿title,artist,genres,popularity_artist,song_popularity,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
 Spirits,The Strumbellas,"['canadian indie', 'folk-pop', 'pop rock', 'stomp and holler']",63,71,0.556,0.658,0,-6.075,1,0.164,0,0.113,0.787,80.529,203653
-Little Lion Man,Mumford & Sons,"['modern folk rock', 'modern rock', 'pop rock', 'stomp and holler', 'uk americana']",76,0,0.515,0.496,5,-8.018,1,0.0244,7.24E-06,0.0895,0.442,138.61,247000
-Towers,Little Mix,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show', 'uk pop']",84,0,0.528,0.695,1,-4.399,0,0.139,0,0.0966,0.334,142.026,238573
-Stubborn Love,The Lumineers,"['folk-pop', 'pop', 'pop rock', 'stomp and holler']",81,0,0.595,0.56,0,-11.688,1,0.59,0.0179,0.196,0.248,114.988,278973
 Shake Me Down,Cage The Elephant,"['modern rock', 'punk blues', 'rock']",79,59,0.457,0.613,9,-5.756,1,0.00463,0.000406,0.0711,0.132,105.111,211373
 Tokyo Smoke,Cage The Elephant,"['modern rock', 'punk blues', 'rock']",79,54,0.453,0.953,6,-3.058,0,1.67E-05,0.0825,0.106,0.446,142.96,205693
 Back To You,Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",86,69,0.6,0.683,6,-6.271,1,0.0984,1.26E-06,0.11,0.494,102.036,210240
@@ -14,7 +11,6 @@ Love's The Only Way,Cage The Elephant,"['modern rock', 'punk blues', 'rock']",79
 What I'm Becoming,Cage The Elephant,"['modern rock', 'punk blues', 'rock']",79,46,0.569,0.472,0,-5.175,1,0.00366,0.00275,0.0891,0.219,134.979,230040
 Ain't No Rest for the Wicked,Cage The Elephant,"['modern rock', 'punk blues', 'rock']",79,72,0.636,0.849,0,-7.075,1,0.0438,0,0.372,0.917,156.036,175493
 The One That Got Away,Katy Perry,"['dance pop', 'pop', 'post-teen pop']",88,72,0.691,0.795,1,-4.021,0,0.000812,1.02E-06,0.156,0.876,133.971,227333
-Brown Eyes,Lady Gaga,"['art pop', 'dance pop', 'pop']",88,0,0.737,0.527,10,-4.789,1,0.177,9.95E-06,0.0866,0.603,125.091,242627
 It's Just Forever (feat. Alison Mosshart),Cage The Elephant,"['modern rock', 'punk blues', 'rock']",79,45,0.431,0.889,9,-1.763,0,0.00633,0.0052,0.315,0.755,136.362,210333
 august,Taylor Swift,['pop'],98,77,0.532,0.623,5,-9.208,1,0.538,7.28E-05,0.0925,0.403,89.937,261923
 Remember When,Wallows,"['indie pop', 'modern rock', 'pop']",77,72,0.504,0.708,11,-5.896,0,0.00112,0.000424,0.788,0.51,82.009,155147
@@ -102,7 +98,6 @@ Salt And The Sea,The Lumineers,"['folk-pop', 'pop', 'pop rock', 'stomp and holle
 Worlds Apart,Wallows,"['indie pop', 'modern rock', 'pop']",77,48,0.314,0.755,0,-6.613,1,0.0154,0.0387,0.492,0.427,169.946,254453
 Fluorescent Adolescent,Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",88,67,0.646,0.813,6,-5.29,0,0.00178,2.26E-05,0.144,0.821,112.115,173493
 Oblivion,Bastille,"['metropopolis', 'modern rock', 'pop', 'pop rock']",80,51,0.422,0.321,5,-8.952,1,0.76,2.33E-06,0.429,0.28,78.533,196347
-Home,Edward Sharpe & The Magnetic Zeros,"['double drumming', 'indie folk', 'la indie', 'modern rock', 'stomp and holler']",66,1,0.545,0.59,2,-6.693,1,0.32,0.000389,0.124,0.127,111.739,306320
 happiness,Taylor Swift,['pop'],98,62,0.559,0.334,11,-10.733,1,0.87,0,0.114,0.211,122.079,315147
 Umbrella,Rihanna,"['barbadian pop', 'dance pop', 'pop', 'pop rap', 'urban contemporary']",92,81,0.583,0.829,1,-4.603,1,0.00864,0,0.0426,0.575,174.028,275987
 abcdefu,GAYLE,['modern alternative pop'],82,93,0.695,0.54,4,-5.692,1,0.299,0,0.367,0.415,121.932,168602
@@ -110,7 +105,6 @@ Happier Than Ever - Edit,Billie Eilish,"['art pop', 'electropop', 'pop']",93,84,
 Pursuit Of Happiness (Nightmare),Kid Cudi,"['hip hop', 'ohio hip hop', 'rap']",86,70,0.63,0.605,0,-8.951,1,0.484,9.29E-05,0.298,0.266,115.277,295293
 Cruel World,Phantogram,"['chillwave', 'electropop', 'indietronica', 'metropopolis', 'modern rock']",72,55,0.559,0.452,0,-6.549,0,0.00179,0.00135,0.376,0.197,80.038,177693
 John Hughes Movie,Maisie Peters,"['alt z', 'indie pop', 'pop', 'uk pop']",68,55,0.445,0.83,0,-3.03,1,0.0303,0.000117,0.261,0.135,94.222,216493
-me & ur ghost,blackbear,"['electropop', 'pop', 'pop rap']",86,0,0.755,0.631,7,-6.128,1,0.0638,0,0.0929,0.881,100.026,200400
 Shut Off The Lights,Bastille,"['metropopolis', 'modern rock', 'pop', 'pop rock']",80,67,0.624,0.908,10,-3.215,1,0.408,0,0.139,0.659,105.048,187364
 right where you left me - bonus track,Taylor Swift,['pop'],98,75,0.581,0.619,10,-6.524,1,0.769,0.000106,0.117,0.645,137.915,245027
 Notion,The Rare Occasions,['la indie'],74,34,0.307,0.884,9,-3.825,1,0.0678,0.00103,0.0849,0.314,159.579,195121
@@ -146,7 +140,6 @@ We Lied To Each Other,Olivia O'Brien,"['alt z', 'dance pop', 'electropop', 'pop'
 Ground,Wallows,"['indie pop', 'modern rock', 'pop']",77,51,0.417,0.669,1,-5.544,1,0.00329,0.000169,0.0403,0.539,76.988,214387
 Cold Cold Man,Saint Motel,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']",68,65,0.613,0.661,9,-4.984,1,0.00652,0,0.0976,0.509,110.978,230773
 Doin' Time,Lana Del Rey,"['art pop', 'pop']",89,80,0.641,0.559,7,-11.132,0,0.404,0.00402,0.0937,0.523,144.982,202193
-Left Hand Free,alt-J,['indie rock'],76,0,0.698,0.876,3,-4.45,1,0.452,0.0133,0.0824,0.81,101.992,173631
 Happiest Year,Jaymes Young,"['modern rock', 'pop']",80,52,0.501,0.167,1,-14.061,1,0.885,0,0.111,0.356,112.275,228443
 Freakin' Out On the Interstate,Briston Maroney,"['indie pop', 'modern rock', 'nashville indie']",66,61,0.452,0.79,4,-5.01,1,0.391,0,0.303,0.362,143.861,251906
 Robbers,The 1975,"['modern alternative rock', 'modern rock', 'pop', 'rock']",78,43,0.62,0.694,4,-6.829,1,0.000325,1.89E-05,0.331,0.35,99.799,254493
